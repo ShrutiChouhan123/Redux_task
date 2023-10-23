@@ -9,6 +9,7 @@ import Addusers from './components/Addusers';
 import Users from './components/Users';
 import ShowUsers from './components/ShowUsers';
 import ViewUsers from './components/ViewUsers';
+import AddPost from './components/AddPost';
 
 
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -30,6 +31,8 @@ root.render(
       <Route path="/users" element={<Users/>}></Route>
       <Route path='/users/add' element={<Addusers />}></Route>
       <Route path="/users/showusers" element={<ShowUsers/>}></Route>
+      <Route path="/users/addpost" element={<AddPost/>}></Route>
+
       <Route path="/users/showusers/viewusers/:id" element={<ViewUsers/>}></Route>
      
 
