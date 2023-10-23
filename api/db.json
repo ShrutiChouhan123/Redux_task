@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-RVp5LQNmm7TLuCj6gA9Ktoi5zc9mmHZ3w&usqp=CAU",
+      
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "shruti123",
+      "name": "shruti",
+      "email": "ayushi@gmail.com",
+      "mobile": "9877159020"
+    },
+    {
+      "id": 2,
+      "username": "deepti123",
+      "name": "deepti",
+      "email": "deepti@gmail.com",
+      "mobile": "99977159020"
+    },
+    {
+      "username": "shruti56790",
+      "name": "shruti",
+      "email": "s@gmail.com",
+      "mobile": "48641654",
+      "id": 5
+    },
+    {
+      "username": "kapil",
+      "name": "kapil",
+      "email": "k@gmail.com",
+      "mobile": "48541541254",
+      "id": 6
+    },
+    {
+      "username": "",
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "id": 7
+    },
+    {
+      "username": "nitesh123",
+      "name": "nitesh",
+      "email": "n@gmail.com",
+      "mobile": "907766767",
+      "id": 8
+    }
+  ],
+  "Student_data": [
+    {
+      "id": 1,
+      "name": "shruti",
+      "city": "ujjain",
+      "mob": "9977159020"
+    }
+  ],
+  "Employee": [
+    {
+      "id": 1,
+      "EmpName": "abc",
+      "EmpCity": "bhopal"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "username": "shruti",
+      "email": "schouhan@gmail.com",
+      "password": "abc"
+    },
+    {
+      "email": "de@gmail.com",
+      "password": "6M@x38UJ$hrv3Ky",
+      "username": "deepti",
+      "id": 2
+    }
+  ]
+  
+}
